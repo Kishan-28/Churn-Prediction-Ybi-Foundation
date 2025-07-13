@@ -85,7 +85,11 @@ Click here to access my project on GitHub: [My GitHub Project](https://github.co
 
 ```
 
-Or open the notebook directly on Google Colab.
+## Google Colab Version
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Kishan-28/Churn-Prediction-Ybi-Foundation/blob/main/churn_prediction_colab%20version.ipynb)
+
+
 
 ---
 
