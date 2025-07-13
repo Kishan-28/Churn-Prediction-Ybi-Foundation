@@ -81,8 +81,8 @@ We used a **Binary Classification** approach with a deep learning model (ANN) to
 
 ##  How to Use
 
-```bash
-git clone https://github.com/Kishan-28/Churn-Prediction-Ybi-Foundation
+Click here to access my project on GitHub: [My GitHub Project](https://github.com/Kishan-28/Churn-Prediction-Ybi-Foundation)
+
 ```
 
 Or open the notebook directly on Google Colab.
