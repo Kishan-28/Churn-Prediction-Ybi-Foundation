@@ -83,7 +83,6 @@ We used a **Binary Classification** approach with a deep learning model (ANN) to
 
 Click here to access my project on GitHub: [My GitHub Project](https://github.com/Kishan-28/Churn-Prediction-Ybi-Foundation)
 
-```
 
 ## Google Colab Version
 
